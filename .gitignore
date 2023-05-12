@@ -1,0 +1,9 @@
+results/
+log.html
+output.xml
+report.html
+credentials.robot
+.idea/
+venv/
+.git/
+/pyvenv.cfg
